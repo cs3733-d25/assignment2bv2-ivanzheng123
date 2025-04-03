@@ -1,3 +1,7 @@
+import Form1 from "./form1";
+import List1 from "./list1";
+import Table1 from "./table1";
+
 export default function hobby1(){
     return(
         <div>
@@ -12,6 +16,9 @@ export default function hobby1(){
                 What intrigues me about this game is the fact that whatever insurmountable problem you're faced against, you can always find a solution by taking it step by step.<br />
                 Overall, video games are a great way for me to relax and get away from the stress of the day.<br />
             </p>
+            <List1 />
+            <Table1 />
+            <Form1 />
         </div>
     );
 }

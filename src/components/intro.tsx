@@ -17,7 +17,10 @@ export default function intro(names:props) {
             </p>
             <h3>{names.name2}</h3>
             <p>
-
+                I am a junior majoring in Computer Science and Data Science. <br />
+                I have been programming since high school and I am greatly interested in software engineering and databases. <br />
+                One aspect of WPI's curriculum I enjoy is the teamwork in most classes, including the IQP. <br />
+                I am hoping to get a full time internship for the summer.
             </p>
         </div>
     );
